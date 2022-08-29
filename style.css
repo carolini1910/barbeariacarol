@@ -2,5 +2,9 @@
     width:100%;
 }
 .titulo-centralizado{
-    text-align: center;
+    text-align: center; 
+}
+.principal{
+background-color: red;
+
 }
